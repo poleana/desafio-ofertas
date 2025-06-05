@@ -15,7 +15,7 @@ Inicialmente, tentei usar o Databricks, mas a versão Community apresentou probl
 
 ![1 - Upload de arquivo .ipynb](src/colab_upload.png)
 
-Para executar o notebook '1_data_processing' no Colab, basta fazer o upload do notebook para o Colab, como mostra a figura 1 e dos arquivos que estão na pasta data/raw/ pra área de 'Arquivos' do Colab, como mostra a Figura 2. O ideal é criar essa estrutura de pastas dentro do Colab -> data/raw/ e nessa pasta, colocar os arquivos offers.json, profile.json e transactions.json. Se não quiser colocar esses arquivos dentro de pastas, não tem problema, só mudar o caminho pros arquivos nas células 3, 4 e 5 do notebook 1.
+Para executar o notebook '1_data_processing' no Colab, basta fazer o upload do notebook para o Colab, como mostra a figura acima e dos arquivos que estão na pasta data/raw/ pra área de 'Arquivos' do Colab, como mostra a figura abaixo. O ideal é criar essa estrutura de pastas dentro do Colab -> data/raw/ e nessa pasta, colocar os arquivos offers.json, profile.json e transactions.json. Se não quiser colocar esses arquivos dentro de pastas, não tem problema, só mudar o caminho pros arquivos nas células 3, 4 e 5 do notebook 1.
 
 ![2 - Upload de arquivos](src/upload_colab_2.png)
 
