@@ -7,8 +7,8 @@ Candidata: Polyana Bezerra da Costa
 ## Instruções para reprodução dos experimentos
 
 A pasta notebooks/ contém dois arquivos:
-1_data_processing.ipynb: processamento e análise exploratória dos dados que estão em data/raw/ e a geração de um dataset processado que fica em data/processed/
-2_modeling.ipynb: treinamento e teste de vários modelos de classificação binária, resultados finais e considerações
+* 1_data_processing.ipynb: processamento e análise exploratória dos dados que estão em data/raw/ e a geração de um dataset processado que fica em data/processed/
+* 2_modeling.ipynb: treinamento e teste de vários modelos de classificação binária, resultados finais e considerações
 
 Ambos os notebooks foram desenvolvidos e executados no Google Colab. Link para o Google Colab: <https://colab.google/>. Preferi usar o Colab por ser prático e por já ter suporte ao Spark.
 Inicialmente, tentei usar o Databricks, mas a versão Community apresentou problemas com clusters que demoravam muito para inicializar (ou nunca ligavam), por isso eu não tinha recurso para rodar os notebooks.
